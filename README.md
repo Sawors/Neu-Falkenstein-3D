@@ -1,14 +1,6 @@
 # Neu-Falkenstein 3D recreation project
-   *
-   *
-   *
-   *
-   *
-   *
-   *
-   *
-   *
-   *
+   Latest render :
+   
    *
    *
    *
