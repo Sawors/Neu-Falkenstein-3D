@@ -1,6 +1,6 @@
 # Neu-Falkenstein 3D recreation project
    Latest render :
-   ![ ](renders/latest.png?raw=true "Latest Render")
+   ![ ](render/latest.png?raw=true "Latest Render")
    *
    *
 The Matura Paper related to this project is available on [Google Drive](https://drive.google.com/drive/folders/1ZjMg6WQv1IaNpQ3CSO_cATjS-hp_5zkV?usp=sharing). 
