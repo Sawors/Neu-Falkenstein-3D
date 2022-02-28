@@ -12,8 +12,8 @@ All sources have a unique identifier composed of 5 characters according to the f
  **[X-SHA1]**
 
 ## Websites
--[W-5843] http://www.burgenseite.ch/ruine-neu-falkenstein.html
--[W-7968] https://hls-dhs-dss.ch/fr/articles/010962/2009-07-20/
+- [W-5843] http://www.burgenseite.ch/ruine-neu-falkenstein.html
+- [W-7968] https://hls-dhs-dss.ch/fr/articles/010962/2009-07-20/
 
 ## Bibliography
 - Werner Meyer
