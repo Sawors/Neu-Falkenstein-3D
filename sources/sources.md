@@ -34,6 +34,10 @@ All sources have a unique identifier composed of 5 characters according to the f
 - [I-90ef] [Burgenwelt](http://www.burgenwelt.org/schweiz/neu_falkenstein/object.php)
 - [I-4f12] [all wikipedia images](https://commons.wikimedia.org/wiki/Category:Burg_Neu-Falkenstein?uselang=de)
 - [I-2c4b] [painting (vague)](http://digital.ub.uni-duesseldorf.de/urn/urn:nbn:de:hbz:061:1-95183)
+- [I-4b36] [Orthophotography : Swissimage25 data](https://www.swisstopo.admin.ch/fr/geodata/images/ortho/swissimage25.html)
+- [I-0b8f] [Orthophotography : Swissimage10 data (2021 + 2018, region only)](https://www.swisstopo.admin.ch/fr/geodata/images/ortho/swissimage10.html)
+- [I-b241] [Orthophotography : OpenStreetMap data (standard layer)](https://www.openstreetmap.org/#map=19/47.32265/7.71034)
+- [I-ca8e] [Orthophotography : Google Maps data (satellite layer)](https://goo.gl/maps/eeJWL7d5kMGdcp1d7)
 ## Videos
 - [V-c4bb] https://www.youtube.com/watch?v=RR_2WzPIzqE
 - [V-d12b] https://www.youtube.com/watch?v=e-vP3CX1ErY
