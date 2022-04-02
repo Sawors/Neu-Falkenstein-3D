@@ -1,7 +1,2 @@
 
-data/[I-4b36] SwissImage25/SI25-2012-2013-2014.tif
-data/[I-4b36] SwissImage25/SI25-2012-2013-2014.tfw
-data/[I-4b36] SwissImage25/Metadata_xml_iso19139.xml
-data/[I-4b36] SwissImage25/Metadata_PDF.pdf
-data/[I-4b36] SwissImage25/Metadata_gm03.xml
-data/[I-4b36] SwissImage25/license.txt
+data/[I-4b36] SwissImage25/*
