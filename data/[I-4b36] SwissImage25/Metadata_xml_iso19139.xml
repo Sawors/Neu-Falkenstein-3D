@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd&#xA;        http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://www.isotc211.org/2005/srv&#xA;        http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd&#xA;      ">
+   <gmd:fileIdentifier xmlns:che="http://www.geocat.ch/2008/che"
+                       xmlns:gco="http://www.isotc211.org/2005/gco"
+                       xmlns:srv="http://www.isotc211.org/2005/srv"
+                       xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                       xmlns:gts="http://www.isotc211.org/2005/gts"
+                       xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                       xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                       xmlns:gml="http://www.opengis.net/gml/3.2"
+                       xmlns:xlink="http://www.w3.org/1999/xlink"
+                       xmlns:geonet="http://www.fao.org/geonetwork">
+      <gco:CharacterString>28de1dab-9f24-40c7-970a-a02d707afd04</gco:CharacterString>
+  </gmd:fileIdentifier>
+   <gmd:language xmlns:che="http://www.geocat.ch/2008/che"
+                 xmlns:gco="http://www.isotc211.org/2005/gco"
+                 xmlns:srv="http://www.isotc211.org/2005/srv"
+                 xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                 xmlns:gts="http://www.isotc211.org/2005/gts"
+                 xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                 xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                 xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+  </gmd:language>
+   <gmd:characterSet xmlns:che="http://www.geocat.ch/2008/che"
+                     xmlns:gco="http://www.isotc211.org/2005/gco"
+                     xmlns:srv="http://www.isotc211.org/2005/srv"
+                     xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                     xmlns:gts="http://www.isotc211.org/2005/gts"
+                     xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                     xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                     xmlns:gml="http://www.opengis.net/gml/3.2"
+                     xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                               codeListValue="utf8"/>
+  </gmd:characterSet>
+   <gmd:hierarchyLevel xmlns:che="http://www.geocat.ch/2008/che"
+                       xmlns:gco="http://www.isotc211.org/2005/gco"
+                       xmlns:srv="http://www.isotc211.org/2005/srv"
+                       xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                       xmlns:gts="http://www.isotc211.org/2005/gts"
+                       xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                       xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                       xmlns:gml="http://www.opengis.net/gml/3.2"
+                       xmlns:xlink="http://www.w3.org/1999/xlink"
+                       xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode"
+                        codeListValue="dataset"/>
+  </gmd:hierarchyLevel>
+   <gmd:contact xmlns:che="http://www.geocat.ch/2008/che"
+                xmlns:gco="http://www.isotc211.org/2005/gco"
+                xmlns:srv="http://www.isotc211.org/2005/srv"
+                xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                xmlns:gts="http://www.isotc211.org/2005/gts"
+                xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:CI_ResponsibleParty>
+         <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>Bundesamt für Landestopografie</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#DE">Bundesamt für Landestopografie</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#FR">Office fédéral de topographie</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#IT">Ufficio federale di topografia</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#EN">Federal Office of Topography</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#RM">Uffizi federal da topografia</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:organisationName>
+         <gmd:positionName xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>Metadaten</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#DE">Metadaten</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#FR">Métadonnées</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#IT">Metadati</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#EN">Metadata contact</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#RM">Metadaten</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:positionName>
+         <gmd:contactInfo>
+            <gmd:CI_Contact>
+               <gmd:phone>
+                  <gmd:CI_Telephone>
+                     <gmd:voice>
+                        <gco:CharacterString>+41 58 469 01 11</gco:CharacterString>
+                     </gmd:voice>
+                  </gmd:CI_Telephone>
+               </gmd:phone>
+               <gmd:address>
+                  <gmd:CI_Address>
+                     <gmd:city>
+                        <gco:CharacterString>Wabern</gco:CharacterString>
+                     </gmd:city>
+                     <gmd:postalCode>
+                        <gco:CharacterString>3084</gco:CharacterString>
+                     </gmd:postalCode>
+                     <gmd:country>
+                        <gco:CharacterString>CH</gco:CharacterString>
+                     </gmd:country>
+                     <gmd:electronicMailAddress>
+                        <gco:CharacterString>geocat@swisstopo.ch</gco:CharacterString>
+                     </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+               </gmd:address>
+               <gmd:onlineResource>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>http://www.swisstopo.admin.ch</gmd:URL>
+                     </gmd:linkage>
+                     <gmd:protocol>
+                        <gco:CharacterString>text/html</gco:CharacterString>
+                     </gmd:protocol>
+                  </gmd:CI_OnlineResource>
+               </gmd:onlineResource>
+               <gmd:hoursOfService>
+                  <gco:CharacterString>08h30 - 11h00 / 14h00 - 16h00 GMT+1</gco:CharacterString>
+               </gmd:hoursOfService>
+            </gmd:CI_Contact>
+         </gmd:contactInfo>
+         <gmd:role>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"
+                             codeListValue="pointOfContact"/>
+         </gmd:role>
+      </gmd:CI_ResponsibleParty>
+   </gmd:contact>
+   <gmd:dateStamp xmlns:che="http://www.geocat.ch/2008/che"
+                  xmlns:gco="http://www.isotc211.org/2005/gco"
+                  xmlns:srv="http://www.isotc211.org/2005/srv"
+                  xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                  xmlns:gts="http://www.isotc211.org/2005/gts"
+                  xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                  xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                  xmlns:gml="http://www.opengis.net/gml/3.2"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xmlns:geonet="http://www.fao.org/geonetwork">
+      <gco:DateTime>2021-01-26T09:35:50</gco:DateTime>
+  </gmd:dateStamp>
+   <gmd:metadataStandardName xmlns:che="http://www.geocat.ch/2008/che"
+                             xmlns:gco="http://www.isotc211.org/2005/gco"
+                             xmlns:srv="http://www.isotc211.org/2005/srv"
+                             xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                             xmlns:gts="http://www.isotc211.org/2005/gts"
+                             xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                             xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                             xmlns:gml="http://www.opengis.net/gml/3.2"
+                             xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xmlns:geonet="http://www.fao.org/geonetwork">
+      <gco:CharacterString>GM03 2+</gco:CharacterString>
+  </gmd:metadataStandardName>
+   <gmd:dataSetURI xmlns:che="http://www.geocat.ch/2008/che"
+                   xmlns:gco="http://www.isotc211.org/2005/gco"
+                   xmlns:srv="http://www.isotc211.org/2005/srv"
+                   xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                   xmlns:gts="http://www.isotc211.org/2005/gts"
+                   xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                   xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                   xmlns:gml="http://www.opengis.net/gml/3.2"
+                   xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xmlns:geonet="http://www.fao.org/geonetwork">
+      <gco:CharacterString>https://www.swisstopo.admin.ch/de/geodata/images/ortho/swissimage25.html</gco:CharacterString>
+  </gmd:dataSetURI>
+   <gmd:locale xmlns:che="http://www.geocat.ch/2008/che"
+               xmlns:gco="http://www.isotc211.org/2005/gco"
+               xmlns:srv="http://www.isotc211.org/2005/srv"
+               xmlns:gmx="http://www.isotc211.org/2005/gmx"
+               xmlns:gts="http://www.isotc211.org/2005/gts"
+               xmlns:gsr="http://www.isotc211.org/2005/gsr"
+               xmlns:gmi="http://www.isotc211.org/2005/gmi"
+               xmlns:gml="http://www.opengis.net/gml/3.2"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:PT_Locale id="FR">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+  </gmd:locale>
+   <gmd:locale xmlns:che="http://www.geocat.ch/2008/che"
+               xmlns:gco="http://www.isotc211.org/2005/gco"
+               xmlns:srv="http://www.isotc211.org/2005/srv"
+               xmlns:gmx="http://www.isotc211.org/2005/gmx"
+               xmlns:gts="http://www.isotc211.org/2005/gts"
+               xmlns:gsr="http://www.isotc211.org/2005/gsr"
+               xmlns:gmi="http://www.isotc211.org/2005/gmi"
+               xmlns:gml="http://www.opengis.net/gml/3.2"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:PT_Locale id="IT">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ita"/>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+  </gmd:locale>
+   <gmd:locale xmlns:che="http://www.geocat.ch/2008/che"
+               xmlns:gco="http://www.isotc211.org/2005/gco"
+               xmlns:srv="http://www.isotc211.org/2005/srv"
+               xmlns:gmx="http://www.isotc211.org/2005/gmx"
+               xmlns:gts="http://www.isotc211.org/2005/gts"
+               xmlns:gsr="http://www.isotc211.org/2005/gsr"
+               xmlns:gmi="http://www.isotc211.org/2005/gmi"
+               xmlns:gml="http://www.opengis.net/gml/3.2"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:PT_Locale id="EN">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+  </gmd:locale>
+   <gmd:locale xmlns:che="http://www.geocat.ch/2008/che"
+               xmlns:gco="http://www.isotc211.org/2005/gco"
+               xmlns:srv="http://www.isotc211.org/2005/srv"
+               xmlns:gmx="http://www.isotc211.org/2005/gmx"
+               xmlns:gts="http://www.isotc211.org/2005/gts"
+               xmlns:gsr="http://www.isotc211.org/2005/gsr"
+               xmlns:gmi="http://www.isotc211.org/2005/gmi"
+               xmlns:gml="http://www.opengis.net/gml/3.2"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:PT_Locale id="RM">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="roh"/>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+  </gmd:locale>
+   <gmd:locale xmlns:che="http://www.geocat.ch/2008/che"
+               xmlns:gco="http://www.isotc211.org/2005/gco"
+               xmlns:srv="http://www.isotc211.org/2005/srv"
+               xmlns:gmx="http://www.isotc211.org/2005/gmx"
+               xmlns:gts="http://www.isotc211.org/2005/gts"
+               xmlns:gsr="http://www.isotc211.org/2005/gsr"
+               xmlns:gmi="http://www.isotc211.org/2005/gmi"
+               xmlns:gml="http://www.opengis.net/gml/3.2"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:PT_Locale id="DE">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+  </gmd:locale>
+   <gmd:spatialRepresentationInfo xmlns:che="http://www.geocat.ch/2008/che"
+                                  xmlns:gco="http://www.isotc211.org/2005/gco"
+                                  xmlns:srv="http://www.isotc211.org/2005/srv"
+                                  xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                                  xmlns:gts="http://www.isotc211.org/2005/gts"
+                                  xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                                  xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                                  xmlns:gml="http://www.opengis.net/gml/3.2"
+                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xmlns:geonet="http://www.fao.org/geonetwork"/>
+   <gmd:referenceSystemInfo xmlns:che="http://www.geocat.ch/2008/che"
+                            xmlns:gco="http://www.isotc211.org/2005/gco"
+                            xmlns:srv="http://www.isotc211.org/2005/srv"
+                            xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                            xmlns:gts="http://www.isotc211.org/2005/gts"
+                            xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                            xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                            xmlns:gml="http://www.opengis.net/gml/3.2"
+                            xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:MD_ReferenceSystem>
+         <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+               <gmd:code xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>EPSG:2056</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">EPSG:2056</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:code>
+            </gmd:RS_Identifier>
+         </gmd:referenceSystemIdentifier>
+      </gmd:MD_ReferenceSystem>
+  </gmd:referenceSystemInfo>
+   <gmd:identificationInfo xmlns:che="http://www.geocat.ch/2008/che"
+                           xmlns:gco="http://www.isotc211.org/2005/gco"
+                           xmlns:srv="http://www.isotc211.org/2005/srv"
+                           xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                           xmlns:gts="http://www.isotc211.org/2005/gts"
+                           xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                           xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                           xmlns:gml="http://www.opengis.net/gml/3.2"
+                           xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:MD_DataIdentification>
+         <gmd:citation>
+            <gmd:CI_Citation>
+               <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Orthophoto der Schweiz mit einer 25 m Auflösung</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Orthophoto der Schweiz mit einer 25 m Auflösung</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Orthophoto de la Suisse avec une résolution de 25m</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">Ortofoto della Svizzera con una risoluzione di 25m</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Orthophoto of Switzerland with a 25m resolution</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">Ortofotografia da la Svizra cun ina dissoluziun da 25 m</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:title>
+               <gmd:alternateTitle xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>SWISSIMAGE 25</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:alternateTitle>
+               <gmd:date>
+                  <gmd:CI_Date>
+                     <gmd:date>
+                        <gco:Date>2013-06-01</gco:Date>
+                     </gmd:date>
+                     <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode"
+                                             codeListValue="creation"/>
+                     </gmd:dateType>
+                  </gmd:CI_Date>
+               </gmd:date>
+               <gmd:date>
+                  <gmd:CI_Date>
+                     <gmd:date>
+                        <gco:Date>2016-03-01</gco:Date>
+                     </gmd:date>
+                     <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode"
+                                             codeListValue="revision"/>
+                     </gmd:dateType>
+                  </gmd:CI_Date>
+               </gmd:date>
+               <gmd:collectiveTitle xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Orthofotos (Landesvermessung)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Orthofotos (Landesvermessung)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Orthophotos (mensuration nationale)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">Ortofoto (misurazione nazionale)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:collectiveTitle>
+            </gmd:CI_Citation>
+         </gmd:citation>
+         <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>Das Orthofotomosaik SWISSIMAGE 25 ist eine Zusammensetzung digitaler Farbluftbilder mit einer Auflösung von 25m pro Pixel. SWISSIMAGE 25 wurde aus dem Orthofotomosaik SWISSIMAGE, welches je nach Gebiet eine Auflösung von 25 cm beziehungsweise 50 cm hat, abgeleitet. Aktuell sind in SWISSIMAGE 25 die Flugjahre 2012, 2013 und 2014 abgebildet. SWISSIMAGE 25 kann gratis heruntergeladen werden.</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#DE">Das Orthofotomosaik SWISSIMAGE 25 ist eine Zusammensetzung digitaler Farbluftbilder mit einer Auflösung von 25m pro Pixel. SWISSIMAGE 25 wurde aus dem Orthofotomosaik SWISSIMAGE, welches je nach Gebiet eine Auflösung von 25 cm beziehungsweise 50 cm hat, abgeleitet. Aktuell sind in SWISSIMAGE 25 die Flugjahre 2012, 2013 und 2014 abgebildet. SWISSIMAGE 25 kann gratis heruntergeladen werden.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#FR">La mosaïque d'orthophoto SWISSIMAGE 25 est un assemblage d'images aériennes numériques en couleur avec une résolution de 25m par pixel. SWISSIMAGE 25 a été obtenu par un rééchantillonage de la mosaïque d'orthophoto SWISSIMAGE qui a une résolution de 25cm ou de 50cm selon les régions. La version actuelle de SWISSIMAGE 25 se comporte des vols de 2012, 2013 et 2014. SWISSIMAGE 25m peut être téléchargé gratuitement.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#IT">Il mosaico di ortofoto SWISSIMAGE 25 è una composizione di immagini aeree digitali a colori con una risoluzione di 25m per pixel. SWISSIMAGE 25 à stato ottenuto da un ridimensionamento del mosaico di ortofoto SWISSIMAGE che ha una risoluzione di 25cm o 50cm a seconda delle regioni. La versione attuale di SWISSIMAGE 25m è composta dai voli 2012, 2013 e 2014. SWISSIMAGE 25m può essere scaricato gratuitamente.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#EN">The SWISSIMAGE 25 orthophoto mosaic is a composition of digital colour aerial images with a resolution of 25 m per pixel. SWISSIMAGE 25 has been resampled from the SWISSIMAGE orthophoto mosaic, which has a ground sampling resolution of 25 cm oder 50 cm depending on the region. The current version of SWISSIMAGE 25 consists of the flights 2012, 2013 and 2014. SWISSIMAGE 25 can be freely downloaded.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#RM">Il mosaic d'ortofoto SWISSIMAGE 25 è ina cumposiziun da maletgs digitals ord l'aria en colur cun ina dissoluziun da 25 m per pixel. SWISSIMAGE 25 è vegnì deducì dal mosaic d'ortofoto SWISSIMAGE che ha – tut tenor il territori – ina dissoluziun da 25 cm respectivamain da 50 cm. Actualmain èn represchentads en SWISSIMAGE 25 ils onns da sgol 2012, 2013 e 2014. SWISSIMAGE 25 po vegnir chargià giu gratuitamain.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:abstract>
+         <gmd:purpose xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>Referenzdaten</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#DE">Referenzdaten</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#FR">Donnée de référence</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:purpose>
+         <gmd:status>
+            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode"
+                                 codeListValue="completed"/>
+         </gmd:status>
+         <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Bundesamt für Landestopografie</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Bundesamt für Landestopografie</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Office fédéral de topographie</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">Ufficio federale di topografia</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Federal Office of Topography</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">Uffizi federal da topografia</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:positionName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Geodatenabgabe</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Geodatenabgabe</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Distribution des géodonnées</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">Distribuzione di geodati</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Geodata Distribution</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">Geodatenabgabe</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+41 58 469 01 11</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString>+41 58 469 04 59</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:city>
+                              <gco:CharacterString>Wabern</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>3084</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>CH</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>geodata@swisstopo.ch</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.swisstopo.ch</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>text/html</gco:CharacterString>
+                           </gmd:protocol>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"
+                                   codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:pointOfContact>
+         <gmd:graphicOverview>
+            <gmd:MD_BrowseGraphic>
+               <gmd:fileName>
+                  <gco:CharacterString>https://www.geocat.ch:443/geonetwork/srv/api/records/28de1dab-9f24-40c7-970a-a02d707afd04/attachments/SWISSIMAGE25.jpg</gco:CharacterString>
+               </gmd:fileName>
+               <gmd:fileDescription xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">large_thumbnail</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:fileDescription>
+               <gmd:fileType>
+                  <gco:CharacterString>jpg</gco:CharacterString>
+               </gmd:fileType>
+            </gmd:MD_BrowseGraphic>
+         </gmd:graphicOverview>
+         <gmd:resourceFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>TIFF</gco:CharacterString>
+               </gmd:name>
+               <gmd:version>
+                  <gco:CharacterString>-</gco:CharacterString>
+               </gmd:version>
+            </gmd:MD_Format>
+         </gmd:resourceFormat>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>opendata.swiss</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">opendata.swiss</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">opendata.swiss</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">opendata.swiss</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">opendata.swiss</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">opendata.swiss</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>orthofoto</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">orthofoto</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">orthophoto</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">ortofoto</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Orthophoto</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM"/>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Digitales Farborthofotomosaik</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Digitales Farborthofotomosaik</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">mosaïque d'orthophotos numériques en couleur</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">mosaico di ortofoto digitali a colori</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">digital color orthophoto mosaic</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM"/>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:type>
+                  <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"
+                                          codeListValue="theme"/>
+               </gmd:type>
+               <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>geocat.ch</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2021-01-29</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode"
+                                                   codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor>
+                    geonetwork.thesaurus.local.theme.geocat.ch</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Luftbild</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Luftbild</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">photographie aérienne</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">fotografia aerea (immagine)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">aerial photograph</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM"/>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:type>
+                  <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"
+                                          codeListValue="theme"/>
+               </gmd:type>
+               <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>GEMET</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2018-08-16</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode"
+                                                   codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor>
+                    geonetwork.thesaurus.external.theme.gemet</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Orthofotografie</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Orthofotografie</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Ortho-imagerie</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">Orto immagini</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Orthoimagery</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM"/>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:type>
+                  <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"
+                                          codeListValue="theme"/>
+               </gmd:type>
+               <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2008-06-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode"
+                                                   codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor>
+                    geonetwork.thesaurus.external.theme.inspire-theme</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:aggregationInfo>
+            <gmd:MD_AggregateInformation>
+               <gmd:aggregateDataSetIdentifier>
+                  <gmd:MD_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>db5a52b4-0f5f-4998-a9a8-dd9539f93809</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:MD_Identifier>
+               </gmd:aggregateDataSetIdentifier>
+               <gmd:associationType>
+                  <gmd:DS_AssociationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"
+                                              codeListValue="largerWorkCitation"/>
+               </gmd:associationType>
+            </gmd:MD_AggregateInformation>
+         </gmd:aggregationInfo>
+         <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode"
+                                                  codeListValue="grid"/>
+         </gmd:spatialRepresentationType>
+         <gmd:spatialResolution>
+            <gmd:MD_Resolution>
+               <gmd:distance>
+                  <gco:Distance uom="m">25</gco:Distance>
+               </gmd:distance>
+            </gmd:MD_Resolution>
+         </gmd:spatialResolution>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode"
+                                     codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
+         </gmd:topicCategory>
+         <gmd:extent>
+            <gmd:EX_Extent>
+               <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>swissimage</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">swissimage</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">swissimage</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#IT">swissimage</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">swissimage</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#RM">swissimage</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:description>
+               <gmd:geographicElement>
+                  <gmd:EX_GeographicDescription>
+                     <gmd:geographicIdentifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>swissimage</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">swissimage</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">swissimage</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#IT">swissimage</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">swissimage</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#RM">swissimage</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:geographicIdentifier>
+                  </gmd:EX_GeographicDescription>
+               </gmd:geographicElement>
+               <gmd:geographicElement>
+                  <gmd:EX_GeographicBoundingBox>
+                     <gmd:westBoundLongitude>
+                        <gco:Decimal>5.93955727929738</gco:Decimal>
+                     </gmd:westBoundLongitude>
+                     <gmd:eastBoundLongitude>
+                        <gco:Decimal>10.5189244348827</gco:Decimal>
+                     </gmd:eastBoundLongitude>
+                     <gmd:southBoundLatitude>
+                        <gco:Decimal>45.8061332951932</gco:Decimal>
+                     </gmd:southBoundLatitude>
+                     <gmd:northBoundLatitude>
+                        <gco:Decimal>47.8094751957659</gco:Decimal>
+                     </gmd:northBoundLatitude>
+                  </gmd:EX_GeographicBoundingBox>
+               </gmd:geographicElement>
+               <gmd:geographicElement>
+                  <gmd:EX_BoundingPolygon>
+                     <gmd:polygon> 
+                        <gml:MultiSurface gml:id="_ms13510432859">
+                           <gml:surfaceMember>
+                              <gml:Polygon gml:id="_p137265722556">
+                                 <gml:exterior>
+                                    <gml:LinearRing>
+                                       <gml:posList srsDimension="2">5.943269 46.104567 5.942528 46.131549 5.941786 46.158531 5.941044 46.185513 5.940301 46.212495 5.939557 46.239476 5.996267 46.240215 6.052977 46.240925 6.052289 46.267908 6.0516 46.294891 6.108369 46.295573 6.107707 46.322556 6.107045 46.349539 6.106383 46.376522 6.04953 46.375839 6.048838 46.402821 6.048146 46.429804 6.047453 46.456787 6.046759 46.483769 6.046065 46.510752 6.10306 46.511437 6.102393 46.53842 6.101726 46.565403 6.101058 46.592386 6.100389 46.619368 6.157499 46.620026 6.156858 46.647009 6.213998 46.647639 6.213385 46.674622 6.212772 46.701605 6.26997 46.702207 6.269385 46.72919 6.326613 46.729763 6.326056 46.756747 6.383314 46.757291 6.382785 46.784275 6.382255 46.811259 6.381724 46.838242 6.43907 46.838759 6.438568 46.865742 6.438065 46.892726 6.437562 46.91971 6.38013 46.919192 6.379598 46.946175 6.437058 46.946693 6.436554 46.973676 6.494045 46.974165 6.493569 47.001149 6.55109 47.001609 6.608611 47.002041 6.608193 47.029024 6.607774 47.056008 6.665354 47.056411 6.664964 47.083394 6.664574 47.110378 6.722213 47.110752 6.721851 47.137736 6.77952 47.138082 6.779187 47.165065 6.836886 47.165382 6.836581 47.192365 6.836277 47.219349 6.894035 47.219637 6.893759 47.24662 6.893483 47.273603 6.893207 47.300586 6.951053 47.300846 6.950805 47.327828 6.89293 47.327569 6.835055 47.32728 6.834749 47.354262 6.834443 47.381244 6.892376 47.381533 6.892099 47.408515 6.891821 47.435497 6.949814 47.435757 6.949565 47.462739 6.949316 47.48972 6.949067 47.516701 7.007149 47.516933 7.065231 47.517135 7.123313 47.517309 7.181396 47.517453 7.239479 47.517568 7.239581 47.490586 7.239682 47.463604 7.297707 47.46369 7.355731 47.463747 7.413756 47.463774 7.413743 47.490756 7.41373 47.517738 7.471813 47.517736 7.47183 47.544718 7.471846 47.571699 7.529989 47.571668 7.530035 47.598649 7.588207 47.598589 7.646379 47.5985 7.646484 47.62548 7.704686 47.625362 7.704551 47.598381 7.762722 47.598234 7.820893 47.598057 7.879064 47.597851 7.937234 47.597616 7.936981 47.570636 7.995121 47.570371 8.053261 47.570078 8.053573 47.597058 8.111741 47.596735 8.112083 47.623715 8.170281 47.623363 8.228477 47.622981 8.286673 47.622571 8.344867 47.622131 8.403061 47.621662 8.403551 47.648641 8.404043 47.675619 8.404534 47.702596 8.405026 47.729574 8.405519 47.756551 8.46386 47.756052 8.464383 47.783028 8.522753 47.782499 8.523306 47.809475 8.581704 47.808917 8.640101 47.808329 8.698497 47.807712 8.697854 47.780737 8.756218 47.780091 8.755547 47.753116 8.81388 47.752441 8.813179 47.725465 8.871481 47.724762 8.929781 47.724028 8.929022 47.697054 8.98729 47.696292 9.045558 47.6955 9.103823 47.69468 9.162087 47.69383 9.161209 47.666857 9.219441 47.665978 9.277671 47.665071 9.276736 47.638098 9.334934 47.637161 9.33397 47.610189 9.392136 47.609224 9.391143 47.582251 9.390151 47.555279 9.448257 47.554285 9.447236 47.527313 9.50531 47.526291 9.563382 47.52524 9.562303 47.498268 9.620343 47.497189 9.619236 47.470217 9.677244 47.469109 9.67611 47.442138 9.674976 47.415167 9.673843 47.388195 9.672712 47.361223 9.671582 47.334251 9.61372 47.335357 9.61262 47.308384 9.611522 47.281411 9.553716 47.282487 9.552648 47.255513 9.610424 47.254438 9.609327 47.227465 9.608232 47.200491 9.607138 47.173517 9.664824 47.172415 9.663702 47.145441 9.662581 47.118468 9.661461 47.091494 9.660342 47.06452 9.71791 47.063391 9.775475 47.062233 9.833038 47.061047 9.831833 47.034074 9.889365 47.03286 9.888132 47.005888 9.945632 47.004644 9.944372 46.977673 9.886901 46.978915 9.885672 46.951943 9.943114 46.950701 10.000553 46.949431 9.999267 46.922459 10.056675 46.921161 10.055362 46.89419 10.112738 46.892863 10.11408 46.919833 10.171483 46.918477 10.172855 46.945446 10.230283 46.94406 10.287708 46.942645 10.28914 46.969613 10.290573 46.996581 10.348053 46.995136 10.349516 47.022102 10.407021 47.020628 10.405529 46.993662 10.463002 46.99216 10.461483 46.965194 10.518924 46.963664 10.517378 46.936699 10.515833 46.909734 10.514289 46.882769 10.512747 46.855804 10.511207 46.828839 10.509668 46.801873 10.452399 46.803399 10.45089 46.776433 10.449383 46.749466 10.447877 46.7225 10.446373 46.695533 10.44487 46.668566 10.443369 46.6416 10.500467 46.640078 10.498938 46.613112 10.497412 46.586146 10.495887 46.559179 10.494363 46.532213 10.437379 46.533731 10.380391 46.535221 10.323401 46.536683 10.266407 46.538115 10.267817 46.565085 10.210792 46.566489 10.212176 46.593459 10.155119 46.594836 10.153765 46.567866 10.096734 46.569213 10.095409 46.542242 10.094085 46.515271 10.092763 46.488299 10.091442 46.461328 10.090122 46.434356 10.147011 46.433012 10.203897 46.431639 10.202522 46.404669 10.201148 46.377698 10.144319 46.37907 10.142975 46.352099 10.141632 46.325128 10.198405 46.323758 10.197036 46.296787 10.195667 46.269817 10.194301 46.242847 10.192935 46.215876 10.136274 46.217244 10.07961 46.218583 10.078302 46.191611 10.021663 46.192921 10.022944 46.219893 10.024225 46.246866 10.025508 46.273838 9.968782 46.275122 9.970038 46.302094 9.971295 46.329067 9.972553 46.35604 9.915741 46.357297 9.858926 46.358526 9.857724 46.331551 9.800934 46.332751 9.744142 46.333922 9.742998 46.306946 9.741855 46.279971 9.685117 46.281112 9.628376 46.282225 9.571634 46.283309 9.514889 46.284365 9.515919 46.311343 9.459144 46.31237 9.460148 46.339348 9.461152 46.366326 9.404319 46.367327 9.347483 46.368299 9.346535 46.34132 9.345588 46.314341 9.288806 46.315283 9.287888 46.288304 9.286971 46.261324 9.286055 46.234345 9.28514 46.207365 9.228469 46.208277 9.227582 46.181298 9.226697 46.154318 9.17008 46.155201 9.169224 46.12822 9.112633 46.129074 9.111806 46.102094 9.110979 46.075113 9.110152 46.048133 9.053644 46.048957 9.052847 46.021977 9.05205 45.994996 9.051254 45.968015 9.050459 45.941035 9.106856 45.940212 9.106033 45.913232 9.105212 45.886252 9.104392 45.859272 9.103572 45.832292 9.047286 45.833113 9.046495 45.806133 8.990235 45.806926 8.933974 45.80769 8.877711 45.808426 8.878419 45.835407 8.879128 45.862389 8.879838 45.88937 8.880548 45.916352 8.881259 45.943333 8.824856 45.944043 8.82554 45.971025 8.769108 45.971706 8.769764 45.998689 8.770422 46.025671 8.77108 46.052654 8.771738 46.079637 8.715193 46.080291 8.658646 46.080917 8.65925 46.107901 8.602674 46.108499 8.60325 46.135482 8.546645 46.136052 8.547193 46.163036 8.547742 46.19002 8.49108 46.190562 8.491601 46.217547 8.43491 46.218061 8.435404 46.245045 8.435898 46.27203 8.37915 46.272516 8.379616 46.299501 8.380083 46.326486 8.323277 46.326944 8.26647 46.327373 8.266059 46.300388 8.20928 46.300788 8.208898 46.273803 8.152146 46.274175 8.151792 46.247189 8.151439 46.220203 8.208135 46.219832 8.207754 46.192846 8.207373 46.165861 8.206993 46.138875 8.150381 46.139246 8.150029 46.112261 8.149678 46.085275 8.093121 46.085617 8.036564 46.085931 8.036269 46.058946 8.035974 46.03196 8.03568 46.004974 8.035385 45.977989 7.978939 45.978274 7.922492 45.97853 7.922254 45.951545 7.922016 45.924559 7.921778 45.897574 7.865415 45.897802 7.80905 45.898001 7.752686 45.898173 7.696321 45.898316 7.696448 45.925301 7.696575 45.952287 7.640154 45.952402 7.583733 45.952489 7.527312 45.952547 7.527269 45.925561 7.470875 45.925591 7.47086 45.898605 7.414494 45.898606 7.414507 45.87162 7.358169 45.871594 7.358129 45.89858 7.301763 45.898525 7.301831 45.871539 7.245494 45.871455 7.245589 45.84447 7.18928 45.844358 7.132971 45.844218 7.076662 45.84405 7.076483 45.871036 7.020146 45.870839 7.01994 45.897825 7.019733 45.924811 7.019525 45.951796 6.963106 45.951571 6.962871 45.978557 6.962635 46.005543 6.906161 46.005289 6.905897 46.032275 6.849395 46.031993 6.849103 46.058979 6.848811 46.085964 6.848519 46.11295 6.791934 46.112639 6.791613 46.139625 6.791292 46.166611 6.790971 46.193596 6.790649 46.220582 6.790327 46.247568 6.790005 46.274554 6.789682 46.30154 6.789359 46.328526 6.73255 46.328185 6.732198 46.355171 6.731846 46.382157 6.788712 46.382498 6.788388 46.409484 6.788064 46.43647 6.78774 46.463456 6.730789 46.463114 6.673839 46.462744 6.673457 46.48973 6.616479 46.489331 6.559502 46.488903 6.502526 46.488447 6.502993 46.461462 6.446046 46.460978 6.446541 46.433993 6.389624 46.43348 6.332708 46.432939 6.333258 46.405955 6.333809 46.378971 6.334358 46.351986 6.277528 46.351417 6.278106 46.324434 6.278682 46.29745 6.279259 46.270466 6.336004 46.271034 6.336552 46.24405 6.337098 46.217066 6.280409 46.216498 6.280984 46.189514 6.224324 46.188918 6.224926 46.161935 6.225527 46.134951 6.168925 46.134328 6.112323 46.133676 6.055723 46.132995 5.999125 46.132286 5.999838 46.105304 5.943269 46.104567</gml:posList>
+                                    </gml:LinearRing>
+                                 </gml:exterior>
+                              </gml:Polygon>
+                           </gml:surfaceMember>
+                        </gml:MultiSurface>
+                     </gmd:polygon>
+                  </gmd:EX_BoundingPolygon>
+               </gmd:geographicElement>
+            </gmd:EX_Extent>
+         </gmd:extent>
+      </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+   <gmd:distributionInfo xmlns:java="java:org.fao.geonet.util.XslUtil"
+                         xmlns:che="http://www.geocat.ch/2008/che"
+                         xmlns:gco="http://www.isotc211.org/2005/gco"
+                         xmlns:srv="http://www.isotc211.org/2005/srv"
+                         xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                         xmlns:gts="http://www.isotc211.org/2005/gts"
+                         xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                         xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                         xmlns:gml="http://www.opengis.net/gml/3.2"
+                         xmlns:xlink="http://www.w3.org/1999/xlink"
+                         xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:MD_Distribution>
+         <gmd:distributionFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>TIFF</gco:CharacterString>
+               </gmd:name>
+               <gmd:version>
+                  <gco:CharacterString>-</gco:CharacterString>
+               </gmd:version>
+            </gmd:MD_Format>
+         </gmd:distributionFormat>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>https://www.swisstopo.admin.ch/de/geodata/images/ortho/swissimage25.html</gmd:URL>
+                     </gmd:linkage>
+                     <gmd:protocol>
+                        <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+                     </gmd:protocol>
+                     <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>SWISSIMAGE 25</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">SWISSIMAGE 25</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:description>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>http://data.geo.admin.ch/ch.swisstopo.swissimage-25/data.zip</gmd:URL>
+                     </gmd:linkage>
+                     <gmd:protocol>
+                        <gco:CharacterString>WWW:DOWNLOAD-URL</gco:CharacterString>
+                     </gmd:protocol>
+                     <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Download von data.geo.admin.ch</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Download von data.geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Serveur de téléchargement de geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#IT">Server di download di geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Download server from geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:description>
+                     <gmd:function>
+                        <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                   codeListValue="download"/>
+                     </gmd:function>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>https://www.swisstopo.admin.ch/de/geodata/images/ortho/swissimage25.html</gmd:URL>
+                     </gmd:linkage>
+                     <gmd:protocol>
+                        <gco:CharacterString>WWW:DOWNLOAD-URL</gco:CharacterString>
+                     </gmd:protocol>
+                     <gmd:name gco:nilReason="missing" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString/>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE"/>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:name>
+                     <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Shop</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Shop</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Shop</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#IT">Shop</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Shop</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:description>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>http://map.geodataviewer.admin.ch/</gmd:URL>
+                     </gmd:linkage>
+                     <gmd:protocol>
+                        <gco:CharacterString>CHTOPO:specialised-geoportal</gco:CharacterString>
+                     </gmd:protocol>
+                     <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>map.geo.admin.ch</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">map.geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">map.geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#IT">map.geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">map.geo.admin.ch</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:description>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+      </gmd:MD_Distribution>
+  </gmd:distributionInfo>
+   <gmd:dataQualityInfo xmlns:che="http://www.geocat.ch/2008/che"
+                        xmlns:gco="http://www.isotc211.org/2005/gco"
+                        xmlns:srv="http://www.isotc211.org/2005/srv"
+                        xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                        xmlns:gts="http://www.isotc211.org/2005/gts"
+                        xmlns:gsr="http://www.isotc211.org/2005/gsr"
+                        xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                        xmlns:gml="http://www.opengis.net/gml/3.2"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        xmlns:geonet="http://www.fao.org/geonetwork">
+      <gmd:DQ_DataQuality>
+         <gmd:scope>
+            <gmd:DQ_Scope>
+               <gmd:level>
+                  <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode"
+                                    codeListValue="dataset"/>
+               </gmd:level>
+            </gmd:DQ_Scope>
+         </gmd:scope>
+         <gmd:lineage>
+            <gmd:LI_Lineage>
+               <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>basiert auf den Luftbildern</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">basiert auf den Luftbildern</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Se base sur les images aériennes</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Based on the aerial images</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:statement>
+            </gmd:LI_Lineage>
+         </gmd:lineage>
+      </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+</gmd:MD_Metadata>

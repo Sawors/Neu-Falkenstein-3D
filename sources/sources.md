@@ -29,7 +29,6 @@ All sources have a unique identifier composed of 5 characters according to the f
     - [L-871a] [La Suisse et les lacs de la Haute-Italie: guide illustré du voyageur](https://books.google.ch/books?id=hDQuAAAAYAAJ&pg=PA24&dq=neu+falkenstein&hl=fr&sa=X&ved=2ahUKEwiz0IPp9vD1AhVfgv0HHcnwBBg4HhDoAXoECAQQAg#v=onepage&q=neu%20falkenstein&f=false)
     - [L-1a2d] NOT FK - [Die mittelalterlichen Kunstdenkmäler des Cantons Solothurn](https://books.google.ch/books?id=VZhCfxFbTZAC&pg=PA64&dq=neu+falkenstein&hl=fr&sa=X&ved=2ahUKEwiNu4289vD1AhWF8rsIHWYbCLk4FBDoAXoECAkQAg#v=onepage&q=neu%20falkenstein&f=false)
 ## Images
-- [I-9321] [painting front view](https://www.galeriehelvetia.ch/products/schloss-falkenstein?variant=13260740853783&currency=CHF&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
 - [I-54fe] [painting detailed ruin view](https://www.galeriehelvetia.ch/products/schloss-falkenstein-nebst-dem-dorfe-balstall-balsthal?variant=13260718997527&currency=CHF&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
 - [I-90ef] [Burgenwelt](http://www.burgenwelt.org/schweiz/neu_falkenstein/object.php)
 - [I-4f12] [all wikipedia images](https://commons.wikimedia.org/wiki/Category:Burg_Neu-Falkenstein?uselang=de)
@@ -38,6 +37,8 @@ All sources have a unique identifier composed of 5 characters according to the f
 - [I-0b8f] [Orthophotography : Swissimage10 data (2021 + 2018, region only)](https://www.swisstopo.admin.ch/fr/geodata/images/ortho/swissimage10.html)
 - [I-b241] [Orthophotography : OpenStreetMap data (standard layer)](https://www.openstreetmap.org/#map=19/47.32265/7.71034)
 - [I-ca8e] [Orthophotography : Google Maps data (satellite layer)](https://goo.gl/maps/eeJWL7d5kMGdcp1d7)
+- [I-4094] [engraving of south side](http://www.swisscastles.ch/Solothurn/Photo/neufalkenstein2.jpg)
+- [I-b5fa] [engraving of north side](http://www.swisscastles.ch/Solothurn/Photo/neufalkenstein.jpg)
 ## Videos
 - [V-c4bb] https://www.youtube.com/watch?v=RR_2WzPIzqE
 - [V-d12b] https://www.youtube.com/watch?v=e-vP3CX1ErY
